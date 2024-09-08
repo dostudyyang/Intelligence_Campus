@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@Api(tags = "管理员控制器")
+@Api(tags = "admin controller")
 @RestController //not @Controller, almost interaction between front-end and end-end is asynchronous
 @RequestMapping("/sms/adminController")
 public class AdminController {

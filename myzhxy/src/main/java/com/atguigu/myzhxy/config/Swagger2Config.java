@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Swagger2配置信息
+ * Swagger2
  */
 @Configuration
 @EnableSwagger2
