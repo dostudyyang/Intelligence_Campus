@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@Api(tags = "教师控制器")
+@Api(tags = "Teacher Controller")
 @RestController
 @RequestMapping("/sms/teacherController")
 public class TeacherController {
